@@ -24,11 +24,11 @@ A public registry similar to GitHub, but instead of repositories containing code
 Here are some essential Docker commands you'll use frequently:
 
 ### Pull an image from Docker Hub:
-'''
+```
 docker pull <image_name>
 # for eg:
 docker pull ubuntu
-'''
+```
 ### Run a container from an image:
 '''
 docker run <image_name>
